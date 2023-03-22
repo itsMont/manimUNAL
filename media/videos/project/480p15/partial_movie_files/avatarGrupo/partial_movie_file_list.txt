@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/jhoja/OneDrive/Escritorio/grupo de estudio Anim acion/media/videos/project/480p15/partial_movie_files/avatarGrupo/3702651821_2195411503_223132457.mp4'
+file 'file:C:/Users/jhoja/OneDrive/Escritorio/grupo de estudio Anim acion/media/videos/project/480p15/partial_movie_files/avatarGrupo/1553175717_1618860702_764822072.mp4'
+file 'file:C:/Users/jhoja/OneDrive/Escritorio/grupo de estudio Anim acion/media/videos/project/480p15/partial_movie_files/avatarGrupo/1553175717_2957159158_1754366763.mp4'
